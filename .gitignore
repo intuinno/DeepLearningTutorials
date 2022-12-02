@@ -16,3 +16,7 @@ html
 *.swp
 # This directory may be created by scripts from segmentation tutorials.
 save_models
+.DS_Store
+.vscode/
+*.pkl
+rbm_plots/
